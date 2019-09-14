@@ -1,6 +1,5 @@
 import React from 'react'
 import PropTypes from "prop-types";
-import './ModelDetails.css'
 
 export default class ModelDetails extends React.Component{
   static propTypes={
